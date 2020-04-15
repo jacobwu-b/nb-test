@@ -4,6 +4,3 @@
 
 Learning computer science ... feel free to join me.
 
-[Home Page](jacobwu.org)
-
-[CS 61A](./cs61a/01.md)
