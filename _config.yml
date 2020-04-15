@@ -1,7 +1,8 @@
-theme: minima
-title: My Programming Notebook
+theme : minima
+title : My Programming Notebook
 author: Jacob Wu
-email: jacob.wu@email.com
+email : jacob.wu@email.com
+url   : jacobwu.org
 description: > # this means to ignore newlines until "baseurl:"
   Hello!
 
